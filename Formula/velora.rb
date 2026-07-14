@@ -10,7 +10,7 @@ class Velora < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/ivanUri/velora/releases/download/v1.0.1/velora-1.0.1-darwin-arm64.tar.gz"
+      url "https://raw.githubusercontent.com/ivanUri/homebrew-tap/main/bottles/velora-1.0.1-darwin-arm64.tar.gz"
       sha256 "eae175f28ce80f932d5b33197518890c56b6e81eddebf06e97f9f19de167beca"
     end
   end
